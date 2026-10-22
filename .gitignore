@@ -16,3 +16,6 @@ __pycache__/
 # Игнорируем файлы операционной системы (для Mac/Linux, но безвредно и в Windows)
 .DS_Store
 Thumbs.db
+
+*.log
+!main.log
